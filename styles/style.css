@@ -45,7 +45,7 @@
   font-weight: bold;
   z-index: 50;
   width: 730px;
-  font: semibold
+  font: semibold;
 }
 
 .header__subtitle{
@@ -248,7 +248,7 @@ padding: 90px 0;
   font-weight: bold;
 }
 .table__text_theme_dark {
-line-height: 1.2;;
+line-height: 1.2;
 font-size: 18px;
 }
 .kaufman__triangle {
