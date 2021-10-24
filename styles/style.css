@@ -30,7 +30,7 @@
   right: 0px;
 }
 
-.header__logo_place_header {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
@@ -45,7 +45,6 @@
   font-weight: bold;
   z-index: 50;
   width: 730px;
-  font: semibold;
 }
 
 .header__subtitle {
@@ -60,6 +59,7 @@
 
 .header__link {
   color: #2f80ed;
+  text-decoration: none;
 }
 
 .header__main-illustration {
@@ -127,7 +127,7 @@
   margin-bottom: 100px;
 }
 
-.section__title {
+.section-title {
   width: 60%;
   margin: 0 auto;
   text-align: center;
@@ -136,7 +136,7 @@
   font-weight: bold;
 }
 
-.section__subtitle {
+.section-subtitle {
   text-align: center;
   margin: 20px auto 0 auto;
   line-height: 34px;
@@ -159,7 +159,7 @@
   width: 250px;
 }
 
-.table__headling {
+.table__heading {
   margin: 0;
   line-height: 1.15;
   font-size: 24px;
@@ -196,6 +196,7 @@
   font-size: 36px;
 }
 .faynman__link {
+  text-decoration: none;
   color: #2f80ed;
   position: absolute;
   top: 50%;
@@ -214,7 +215,7 @@ opacity: 0;
   padding: 90px 0;
   background-color: #1f1f1f;
 }
-.section__title_theme_dark {
+.section-title_theme_dark {
   color: white;
   line-height: 1.15;
   font-size: 60px;
@@ -226,7 +227,7 @@ opacity: 0;
   z-index: 5;
 }
 
-.section__subtitle_theme_dark {
+.section-subtitle_theme_dark {
   color: white;
   line-height: 34px;
   font-size: 24px;
@@ -253,7 +254,7 @@ opacity: 0;
   z-index: 2;
 }
 
-.table__headling_theme_dark {
+.table__heading_theme_dark {
   margin: 0;
   padding: 0;
   padding-bottom: 20px;
@@ -267,7 +268,7 @@ opacity: 0;
   font-size: 18px;
 }
 .kaufman__triangle {
-  background: url("../images/kaufman-triangle.svg");
+  background: url("../images/kaufman-triangle.svg")  877px 877px;
   width: 877px;
   height: 877px;
   position: absolute;
@@ -332,11 +333,13 @@ opacity: 0;
 /* .footer__column_content_social {
 } */
 .footer__column-links {
+  text-shadow: none;
   padding: 0;
   list-style: none;
   margin: 20px 0 16px 0;
 }
 .footer__column-link {
+  text-decoration: none;
   line-height: 30px;
   font-size: 18px;
   color: #2f80ed;
