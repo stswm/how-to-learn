@@ -1,0 +1,6 @@
+.video__iframes{
+  /* ? тк сдвиг вниз на 50px то сверху одступ онный и марджин уже не нужен margin-top: 50px; */
+  display: flex;
+  justify-content: center;
+  transform: translateY(50px);
+}
