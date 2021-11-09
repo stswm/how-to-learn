@@ -1,6 +1,6 @@
 .two-columns__main-text {
-  min-height: 150px;
-  width: 80%;
+  width: 80%;  
+  min-width: 784px;
   flex-direction: column;
   margin: 0;
   padding: 0;
