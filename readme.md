@@ -5,6 +5,6 @@
 * CSS
 Alt-H1
 ------ 
-##
-URL
+## URL:
+
 https://stswm.github.io/how-to-learn/
