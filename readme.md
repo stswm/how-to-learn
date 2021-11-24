@@ -5,4 +5,6 @@
 * CSS
 Alt-H1
 ------ 
-### Для ревьюера
+##
+URL
+https://stswm.github.io/how-to-learn/
