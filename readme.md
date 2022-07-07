@@ -4,10 +4,10 @@
 
 ## Применяемые технологии
 
-HTML
-CSS
-Вращение фигур
-youtube api
+- HTML
+- CSS
+- Анимация фигур
+- youtube api
 
 ---
 
